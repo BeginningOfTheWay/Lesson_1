@@ -10,7 +10,7 @@ public class Main {
         short e = 40;
         int d = 10;
         long a = 50;
-        float t = 60;
+        float t = 70;
         double b = 20;
         char y = '\u1212';
         boolean o = 7 < 9 || 9 > 8;
